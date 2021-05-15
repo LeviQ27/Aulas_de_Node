@@ -1,0 +1,11 @@
+### requisição GET
+GET http://localhost:1357/app/1
+
+### requisição POST
+POST http://localhost:1357/app/2
+### requisição PUT
+PUT http://localhost:1357/app/3
+### requisição PATCH
+PATCH http://localhost:1357/app/4
+### requisição DELETE
+DELETE http://localhost:1357/app/5

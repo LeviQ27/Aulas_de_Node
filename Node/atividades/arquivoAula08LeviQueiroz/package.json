@@ -1,0 +1,13 @@
+{
+  "name": "5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "arquivo_aula08_LeviQueiroz.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon arquivo_aula08_LeviQueiroz.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
